@@ -1,1 +1,1 @@
-web: gunicorn try1dry.wsgi
+web: gunicorn myproject.wsgi
